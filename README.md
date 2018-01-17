@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FCryptoJS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FCryptoJS?ref=badge_shield)
+
 ﻿CryptoJS
 --------
 
@@ -106,3 +108,7 @@ require.config({
 
 ### Copyrights
 Please see copyrights.txt file in the root folder which is copy of corresponding file from Google Code project. This github repository does not assert any copyrights beyond what original CryptoJS does.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2FCryptoJS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2FCryptoJS?ref=badge_large)
